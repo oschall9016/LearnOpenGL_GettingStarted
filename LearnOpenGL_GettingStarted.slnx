@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LearnOpenGL_GettingStarted.vcxproj" Id="b45ac603-9053-482d-8b14-ba57ae968514" />
+</Solution>
