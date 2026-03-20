@@ -143,7 +143,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="fragment.fs" />
+    <None Include="fragmentLight.fs" />
     <None Include="vertex.vs" />
+    <None Include="vertexLight.vs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="awesomeface.png" />

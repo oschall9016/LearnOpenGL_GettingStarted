@@ -43,6 +43,12 @@
     <None Include="fragment.fs">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="fragmentLight.fs">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="vertexLight.vs">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
